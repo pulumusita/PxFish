@@ -24,17 +24,7 @@ plum_star_xss_fish 简称pxfish，一个php写的供xss演示的一套源码
 
 ## 源码架构
 
-admin_login.php：登录页面
-
-admin.php：后台界面
-
-inc：数据库配置文件
-
-index.php主页面
-
-img：readme文件图片储存
-
-function.php：检查后台登录界面cookie
+![](https://s1.ax1x.com/2022/05/06/OKnZQg.png)			
 
 ## 数据库
 
