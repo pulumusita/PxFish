@@ -42,9 +42,9 @@ mysql中新建一个数据库，名字随意，但是需要在其中创建两张
 
 ### 数据库配置
 
-一共有两个文件，config.inc.php文件填写数据库相关信息；mysql.inc.php文件，检查数据库是否正确连接
+使用请检查mysql.php中你的配置是否正确，修改为你自己的配置即可。
 
-![](https://s1.ax1x.com/2022/05/06/OKkSUS.png)
+![](https://s1.ax1x.com/2022/05/06/OKum9K.png)
 
 ## 写在最后
 
