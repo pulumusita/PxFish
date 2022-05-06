@@ -30,13 +30,13 @@ plum_star_xss_fish 简称pxfish，一个php写的供xss演示的一套源码
 
 ### 数据库建立
 
-mysql中新建一个数据库，名字随意，但是需要在其中创建两张表，一张users，里面储存的是后台登录的用户名和密码
+mysql中新建一个数据库，名字随意(但是要与mysql.php中配置的一样)，在其中创建两张表，一张users，里面储存的是后台登录的用户名和密码
 
 **ps：username和password是必须的，level可以有也可以没有**
 
 ![](https://s1.ax1x.com/2022/05/06/OKkp4g.png)
 
-该数据库中新建一张pxfish的表，表中包含以下图片中的数据。储存获取的username和password
+该数据库中新建一张pxfish表，表中包含以下图片中的数据。储存获取的username和password
 
 ![](https://s1.ax1x.com/2022/05/06/OKFzE8.png)
 
