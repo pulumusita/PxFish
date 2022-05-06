@@ -34,17 +34,17 @@ mysql中新建一个数据库，名字随意，但是需要在其中创建两张
 
 **ps：username和password是必须的，level可以有也可以没有**
 
-![image-20220505120242406](D:\phpStudy\WWW\pxfish\img\image-20220505120242406.png)
+![](https://s1.ax1x.com/2022/05/06/OKkp4g.png)
 
-该数据库中新建一张pxfish的表，表中包含以下图片中的数据。
+该数据库中新建一张pxfish的表，表中包含以下图片中的数据，用来储存获取的username和password
 
-![image-20220506133225370](D:\phpStudy\WWW\pxfish\img\image-20220506133225370.png)
+![](https://s1.ax1x.com/2022/05/06/OKFzE8.png)
 
 ### 数据库配置
 
 一共有两个文件，config.inc.php文件填写数据库相关信息；mysql.inc.php文件，检查数据库是否正确连接
 
-![image-20220505122801157](D:\phpStudy\WWW\pxfish\img\image-20220505122801157.png)
+![](https://s1.ax1x.com/2022/05/06/OKkSUS.png)
 
 ## 写在最后
 
