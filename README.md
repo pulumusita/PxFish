@@ -1,9 +1,4 @@
----
-title: pxfish示例钓鱼网站
-typora-copy-images-to: img
----
-
-## 简介
+## PxFish简介
 
 plum_star_xss_fish 简称pxfish，一个php写的供xss演示的一套源码
 
