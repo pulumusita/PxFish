@@ -10,7 +10,7 @@ P1umStar_xss_Fish 简称PxFish，一个php写的供xss演示的一套源码
 
 1、将PxFish放到web服务器的根目录下
 
-2、修改inc/config.inc.php里面的数据库配置
+2、修改mysql/mysql.php里面的数据库配置
 
 3、开始使用
 
