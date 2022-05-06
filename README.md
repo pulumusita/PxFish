@@ -3,7 +3,16 @@
 plum_star_xss_fish 简称pxfish，一个php写的供xss演示的一套源码
 
 起因：写XSS钓鱼那篇文章时，在GitHub上和其他地方搜了一下php写的钓鱼示例页面，没找到，只找到了一个python写的钓鱼示例页面，就是我文章用的那个页面，但是并无法进行后台xss弹窗，所以萌生了php写一个xss演示系统的念头，也是正在学习php，借着这个机会尝试一下，前端写的不是很好看，但是基本功能是可以实现的，代码还是很简单的
-本地是使用phpstudy集成环境搭建的。
+
+## 安装及使用
+
+数据库使用的是mysql，因此运行PxFish你需要提前安装好php+mysql+中间件(例如apache等)，不过个人建议直接使用一些集成环境进行搭建，例如phpstudy，XAMPP等。
+
+1、将PxFish放到web服务器的根目录下
+
+2、修改inc/config.inc.php里面的数据库配置
+
+3、开始使用
 
 ## 功能实现
 
@@ -24,8 +33,6 @@ inc：数据库配置文件
 index.php主页面
 
 img：readme文件图片储存
-
-function.php：检查后台登录界面cookie
 
 ## 数据库
 
